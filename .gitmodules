@@ -1,0 +1,6 @@
+[submodule "PCB"]
+	path = PCB
+	url = git@github.com:WildfootW/NTU-BEM-Lab_Homework-A_PCB.git
+[submodule "Firmware"]
+	path = Firmware
+	url = git@github.com:WildfootW/NTU-BEM-Lab_Homework-A_Firmware.git
