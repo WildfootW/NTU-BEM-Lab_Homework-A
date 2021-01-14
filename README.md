@@ -1,1 +1,9 @@
-# NTU-BEM-Lab_Homework-A
+# NTU-BEM-Lab Homework-A
+
+* IoT Sensor Node
+    * XBee
+    * ATmega328p
+    
+* IoT Gateway
+    * XBee
+    * Raspberry Pi
