@@ -1,6 +1,9 @@
 [submodule "PCB"]
-	path = PCB
-	url = git@github.com:WildfootW/NTU-BEM-Lab_Homework-A_PCB.git
+	path = Sensor_Node/PCB
+	url = git@github.com:WildfootW/NTU-BEM_Homework-A_Node-PCB.git
 [submodule "Firmware"]
-	path = Firmware
-	url = git@github.com:WildfootW/NTU-BEM-Lab_Homework-A_Firmware.git
+	path = Sensor_Node/Firmware
+	url = git@github.com:WildfootW/NTU-BEM_Homework-A_Node-Firmware.git
+[submodule "Gateway/NTU-BEM_Homework-A_Gateway"]
+	path = Gateway/Gateway
+	url = git@github.com:WildfootW/NTU-BEM_Homework-A_Gateway.git
